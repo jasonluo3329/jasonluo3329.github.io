@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Jason Luo"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/mypic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Learning with data."
   location         : "Sydney, Australia"
   email            :
