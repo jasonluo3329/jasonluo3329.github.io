@@ -1,8 +1,10 @@
 ---
-title: "About"
-permalink: /about/
+title: ""
+permalink: "/about/"
 header:
-      image: "/images/bg.jpg"
+  image: "/images/SydneyHarbour.jpg"
 ---
 
-I'm a junior data scientists who is working hard at learning machine learning.
+I am very passionate about coding and algorithms.
+
+Ambitious and open to new ideas.
