@@ -20,7 +20,6 @@ And here's some *italics*
 
 Here's some **bold** text.
 
-What about a [link](https://github.com/tylercx62/python_programming/blob/master/StartWithFiles.ipynb)?
 
 Here's a bulleted list:
 * First item
