@@ -154,7 +154,6 @@ plt.show()
 ```
 
 
-![png](output_9_0.png)
 
 
 # Grouped bar plots, part 1
@@ -248,8 +247,3 @@ plt.show()
 
 
 
-
-
-```python
-
-```
