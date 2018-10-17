@@ -38,10 +38,4 @@ header:
 * [Comparison:  Linear Regression, DTree and Random Forest](https://github.com/tylercx62/methods/blob/master/LinearTreeForest605.ipynb)
 * [Selecting and Tuning Different Algorithms](https://github.com/tylercx62/methods/blob/master/DataScienceWorkflows601.ipynb)
 * [Genetic Programming : Optimize machine learning pipeline](https://github.com/tylercx62/methods/blob/master/geneticProgramming606.ipynb)
-7. Deep Learning (.ipynb)
-* [Graduate project: A new Deep Learning Based model for Light-field Image Material Classification](https://github.com/tylercx62/graduateProj)
-8. Cloud Computing
-* [Graduate assignment: Spark](https://github.com/tylercx62/sparkAssigment)
-9. Data Structures and Algorithms
-* [All Data Structures in Python](https://github.com/tylercx62/Python/tree/master/data_structures)
-* [All Algorithms in Python](https://github.com/tylercx62/Python)
+

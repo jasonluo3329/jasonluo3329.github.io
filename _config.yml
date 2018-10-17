@@ -98,7 +98,7 @@ analytics:
 # Site Author
 author:
   name             : "Jason Luo"
-  avatar           : "mypic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/mypic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "University of Sydney"
   location         : "Sydney, Australia"
   email            : "jasonluo3329@gmail.com"
