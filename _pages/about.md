@@ -2,7 +2,7 @@
 title: ""
 permalink: "/about/"
 header:
-  image: "/images/SydneyHarbour.jpg"
+  image: "/images/SydneyUni.jpg"
 ---
 
 I am very passionate about coding and algorithms.
