@@ -1,4 +1,3 @@
-
 ---
 title: "Scatter plots, bar plot and grouped bar plots"
 permalink: "/viz01/"
