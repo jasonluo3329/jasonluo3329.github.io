@@ -12,7 +12,7 @@ header:
 * [Error handling](/python03/)
 * [Define a class](/python04/)
 2. Visualization 
-* [Scatter plots, bar plot and grouped bar plots](/../_posts/viz01/)
+* [Scatter plots, bar plot and grouped bar plots](/_posts/viz01/)
 * [Scatter plots, histogram and bar plots](https://github.com/jasonluo3329/DS_Notes/blob/master/PandaVisualTwoFeatures203.ipynb)
 * [Line plots(trends), box plot, stacked bar plots and grouped bar plot](https://github.com/jasonluo3329/DS_Notes/blob/master/PdCleanReindexVisual204.ipynb)
 * [Comparing line charts](https://github.com/jasonluo3329/DS_Notes/blob/master/PandaVisualLineCompare202.ipynb)
