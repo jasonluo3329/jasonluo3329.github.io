@@ -36,6 +36,5 @@ header:
 * [Knn : Visual Analytics](https://github.com/jasonluo3329/DS_Notes/blob/master/KnnVisualAnalytics603.ipynb)
 * [Linear Regression : Feature Engineering and Feature Selection](https://github.com/jasonluo3329/DS_Notes/blob/master/LinearFeaEngSelect604.ipynb)
 * [Comparison:  Linear Regression, DTree and Random Forest](https://github.com/jasonluo3329/DS_Notes/blob/master/LinearTreeForest605.ipynb)
-* [Selecting and Tuning Different Algorithms](https://github.com/jasonluo3329/DS_Notes/blob/master/DataScienceWorkflows601.ipynb)
-* [Genetic Programming : Optimize machine learning pipeline](https://github.com/jasonluo3329/DS_Notes/blob/master/geneticProgramming606.ipynb)
+
 
