@@ -1,11 +1,13 @@
 ---
 layout: archive
 permalink: /data-science/
-title: "Data Science Posts"
+title: "Data Analytics/Science Posts"
 author_profile: true
 header:
   image: "/images/SydneyUni.jpg"
 ---
+Hello, My name is Jason Luo. I'm a Data Analyst and I love playing with data. In this blog you will see my learning notes about python programming, Probability & Statistics, data analytics, SQL and machine learning. 
+
 1. Python Programming
 * [Start with Files : csv, txt, image and URL](/python01/)
 * [Exploring the Dataset : Pandas and Numpy](/python02/)
