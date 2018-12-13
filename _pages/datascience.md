@@ -9,9 +9,11 @@ header:
 Hello, My name is Jason Luo. I'm a Data Analyst and I love playing with data. In this blog you will see my learning notes about python programming, Probability & Statistics, data analytics, SQL and machine learning. 
 
 **MedicalDirector Interview:** 
-medical dataset practice- * [Anemia Analysis](https://github.com/jasonluo3329/DS_Notes/blob/master/Medical_practice.ipynb)
+medical dataset practice: 
+* [Anemia Analysis](https://github.com/jasonluo3329/DS_Notes/blob/master/Medical_practice.ipynb)
 
-Tableau Homepage- * [MyTableau](https://public.tableau.com/profile/jason.luo#!/)
+Tableau Homepage: 
+* [MyTableau](https://public.tableau.com/profile/jason.luo#!/)
 
 **Data Analytics/Science Posts:**
 1. Python Programming
