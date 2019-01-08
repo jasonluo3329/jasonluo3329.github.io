@@ -8,9 +8,8 @@ header:
 ---
 Hello, My name is Jason Luo. I'm a Data Analyst and I love playing with data. In this blog you will see my learning notes about python programming, Probability & Statistics, data analytics, SQL and machine learning. 
 
-**MedicalDirector Interview:** 
-medical dataset practice: 
-* [Anemia Analysis](https://github.com/jasonluo3329/DS_Notes/blob/master/Medical_practice.ipynb)
+
+
 
 Tableau Homepage: 
 * [MyTableau](https://public.tableau.com/profile/jason.luo#!/)
@@ -47,5 +46,6 @@ Tableau Homepage:
 * [Linear Regression : House price predicting](https://github.com/jasonluo3329/DS_Notes/blob/master/LinearFeaEngSelect604.ipynb)
 * [Comparison:  Linear Regression, DTree and Random Forest](https://github.com/jasonluo3329/DS_Notes/blob/master/LinearTreeForest605.ipynb)
 
-
+medical dataset practice: 
+* [Anemia Analysis](https://github.com/jasonluo3329/DS_Notes/blob/master/Medical_practice.ipynb)
 
